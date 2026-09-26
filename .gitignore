@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+*.spec
+output/
+*.db
+*.mp4
+*.srt
+*.jpg
+*.log
+client_secret*.json
+.tmp/
+.vendor/
